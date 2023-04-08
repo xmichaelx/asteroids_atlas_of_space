@@ -4,3 +4,4 @@ numpy
 pandas
 pytest>=5.0.0
 jupyter
+sgp4
